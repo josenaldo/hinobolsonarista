@@ -3,7 +3,7 @@
 Autor: Vudu reverso
 
 ## I
-  
+
 > O vírus do Ipiranga, a jeba flácida!  
 > Um bobo egóico, um parvo ignorante!  
 > Ao som da pós verdade, o gado pútrido,  
@@ -31,7 +31,7 @@ Autor: Vudu reverso
 > Velho Senil  
 > Adquiriu  
 > Coronga armada!  
-> Porque os teus acordos descumpriu   
+> Porque os teus acordos descumpriu  
 > Tá cagado o  
 > Brasil!  
   
@@ -67,4 +67,18 @@ Autor: Vudu reverso
 > Porque os teus acordos descumpriu  
 > Tá cagado o  
 > Brasil!  
-  
+
+## Imagens para compartilhar
+
+### Hino completo
+
+![Hino](hino.png)
+
+### Hino dividido
+
+Para compartilhar no Instagram
+
+![Hino](hino01.png)
+![Hino](hino02.png)
+![Hino](hino03.png)
+![Hino](hino04.png)
