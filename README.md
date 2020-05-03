@@ -56,9 +56,9 @@ Autor: Vudu reverso
 > E que nós expulsemos essa pústula  
 > Tão imaturo e desprecatado  
 <!-- -->  
-> Mas se ergue da justiça o consorte  
-> Pra proteger milícia ele labuta  
-> No jogo da justiça é suporte  
+> Mas o ministro que era consorte  
+> De cúmplice de toda essa conduta  
+> Deixou o miliciano à própria sorte  
 <!-- -->  
 > Terra arrasada  
 > Velho Senil  
@@ -72,13 +72,13 @@ Autor: Vudu reverso
 
 ### Hino completo
 
-![Hino](hino.png)
+![Hino](images/hino.png)
 
 ### Hino dividido
 
 Para compartilhar no Instagram
 
-![Hino](hino01.png)
-![Hino](hino02.png)
-![Hino](hino03.png)
-![Hino](hino04.png)
+![Hino](images/hino01.png)
+![Hino](images/hino02.png)
+![Hino](images/hino03.png)
+![Hino](images/hino04.png)
